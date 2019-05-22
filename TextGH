@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>GitHUbText</title>
+        <style type="text/css">
+
+            h1 {
+                color: #afa;
+                text-align: center;
+                font-size: 24px;
+            }
+
+            #nav > li{
+                color: blueviolet;
+                font-size: 15px;
+            }
+
+            #nav {
+                width: 300px;
+                height: 200px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>GitHUB网站测试</h1>
+        <ul id="nav">
+            <li>HTML测试</li>
+            <li>CSS测试</li>
+            <li>JavaScript测试</li>
+        </ul>
+    </body>
+</html>
